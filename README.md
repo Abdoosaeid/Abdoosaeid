@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate problem solving from Egypt</h3>
+<h3 align="center">A passionate problem solver from Egypt</h3>
 
 - 🌱 I’m currently learning **Data structure And Algorithm**
 
